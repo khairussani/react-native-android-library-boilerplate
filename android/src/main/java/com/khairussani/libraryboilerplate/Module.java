@@ -1,4 +1,4 @@
-package io.cmichel.boilerplate;
+package com.khairussani.libraryboilerplate;
 
 import android.widget.Toast;
 
