@@ -18,12 +18,12 @@ public class Module extends ReactContextBaseJavaModule {
     super(reactContext);
   }
 
-  @Override
+  //@Override
   public String getName() {
     return "Boilerplate";
   }
 
-  @Override
+  //@Override
   public Map<String, Object> getConstants() {
     final Map<String, Object> constants = new HashMap<>();
     constants.put(DURATION_SHORT_KEY, Toast.LENGTH_SHORT);
